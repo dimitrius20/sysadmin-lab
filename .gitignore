@@ -1,4 +1,4 @@
-﻿# Obsidian workspace
+# Obsidian workspace
 .obsidian/workspace.json
 .obsidian/workspace-mobile.json
 
@@ -6,9 +6,7 @@
 Thumbs.db
 Desktop.ini
 
-# Temporary files
+# Temporary
 *.tmp
 *.temp
-
-# Logs
 *.log
