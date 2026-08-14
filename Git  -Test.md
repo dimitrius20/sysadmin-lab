@@ -1,3 +1,3 @@
 # Git Test
 
-Obsidian → Git → GitHub
+Obsidian → Git → GitHub = 
